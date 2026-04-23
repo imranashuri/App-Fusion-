@@ -1,6 +1,4 @@
-# Project_Shopping_Store:
-
-I checked your project files. Your project is a **Shopping Store (E-Commerce Website)**.
+# Project:Shopping Store (E-Commerce Website)
 
  ✅ What this project is
 
